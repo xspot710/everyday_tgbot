@@ -1,0 +1,8 @@
+# 忽略資料與敏感資訊
+data/
+.env
+__pycache__/
+*.pyc
+*.sqlite3
+*.db
+.venv/
